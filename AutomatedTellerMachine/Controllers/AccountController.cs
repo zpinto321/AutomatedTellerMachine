@@ -20,6 +20,7 @@ namespace AutomatedTellerMachine.Controllers
 
         public AccountController()
         {
+            string s;
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
